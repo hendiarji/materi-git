@@ -14,4 +14,8 @@ penjelasan mengenai keseluruhan perintah-perintah untuk GIT dari
 -melempar data kita ke git
 -mengcommit data ke git
 -mengkloning git
--push git
+-push git.
+
+# branch
+
+membuat cabang dari repositori agar data yang kita rubah tidak merubah data master
